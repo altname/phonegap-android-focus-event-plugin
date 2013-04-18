@@ -11,6 +11,7 @@ Plugin provides focus event to android phonegap app
    <plugin name="FocusEventPlugin" value="com.phonegap.plugin.FocusEventPlugin"/>
 
 ```
+
 4. Add js script to your html page
 
 ```
@@ -18,6 +19,7 @@ Plugin provides focus event to android phonegap app
 	<script type="text/javascript" src="js/FocusEventPlugin.js"></script>
 
 ```
+
 5. Call focus event on input or textarea you need
 
 ```
